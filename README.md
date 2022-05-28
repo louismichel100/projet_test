@@ -1,0 +1,1 @@
+# Dans le dossier PHP, vous trouverez l'api laravel pour pouvoir communiquer avec la base de donnée. Par la suite, dans le dossier Android, nous avons réalisé une application (pas complète) avec react-native en utilisant expo. Donc pour visualiser l'application bien vouloir exécuter la commande expo start
